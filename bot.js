@@ -51,4 +51,4 @@ bot.on('message', message=>{
     }
 })
 
-bot.login(proccess.env.BOT_TOKEN);
+bot.login(token);
